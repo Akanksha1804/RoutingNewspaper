@@ -1,0 +1,7 @@
+input{
+    width: 70%;
+}
+form{
+    display: flex;
+    flex-direction: row;
+}

@@ -1,0 +1,12 @@
+#total{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+#left{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

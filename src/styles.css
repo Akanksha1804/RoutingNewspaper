@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+.bottom-left{
+    position: absolute;
+    bottom: 12px;
+    left: 24px;
+}
+#mainc{
+    position: relative;
+    color: white;
+}
+#mainh{
+    background-color: white;
+    color: black;
+    margin: 1px;
+    width: 15%;
+    border-radius: 5px;
+    text-align: center;
+    padding: 3px;
+}
+#maindesc{
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+}
